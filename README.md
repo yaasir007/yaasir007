@@ -1,3 +1,3 @@
-https://www.linkedin.com/in/yaasir007/
-https://github.com/yaasir007
+https://www.linkedin.com/in/yaasir007/ <br>
+https://github.com/yaasir007 <br>
 https://yaasir-cheekoory.netlify.app/
