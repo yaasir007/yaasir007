@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohammad Yaasir Cheekoory
 ==========================================
 
-Full Stack Developer
+Full Web Stack Developer
 --------------------
 
 It's been a long long journey.
