@@ -1,15 +1,10 @@
 Hi 👋 My name is Mohammad Yaasir Cheekoory
 ==========================================
 
-Full Web Stack Developer
+Web Developer
 --------------------
 
 It's been a long long journey.
-
-* 🌍  I'm based in Mauritius
-* 🖥️  See my portfolio at [Me](http://yaasir-cheekoory.netlify.app/)
-* ✉️  You can contact me at [yaasir1997@gmail.com](mailto:yaasir1997@gmail.com)
-* 🤝  I'm open to collaborating on interesting projects or startups.
 
 ### Skills
 
