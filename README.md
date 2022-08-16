@@ -1,5 +1,3 @@
-<h2 align="center">Web Developer</h2>
-
 # 💫 About Me:
 https://www.linkedin.com/in/yaasir007/<br><br>https://medium.com/@yaasir007<br><br>https://www.instagram.com/yaasir786/<br><br>yaasir1997@gmail.com
 
