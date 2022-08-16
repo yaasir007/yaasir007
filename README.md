@@ -1,4 +1,4 @@
-Web Developer
+<h3 align="center">Web Developer</h3>
 --------------------
 
 # 💫 About Me:
@@ -12,10 +12,10 @@ https://www.linkedin.com/in/yaasir007/<br><br>https://medium.com/@yaasir007<br><
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yaasir007&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaasir007&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the day!!!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Meme of the day!!!
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
