@@ -13,4 +13,4 @@ https://www.linkedin.com/in/yaasir007/<br><br>https://yaasir-cheekoory.netlify.a
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Meme of the day!!!
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+![]<img src="https://random-memer.herokuapp.com/" width="512px"/>
