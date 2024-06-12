@@ -71,19 +71,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yaasir007/yaasir007/output/snake.svg" alt="Snake animation" />
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBmcjhyNHFvbXJ6bW5yMGliOTUwdDByeGlydDhqcXQ2eTF3c2NrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fPOm3oqOWNFOMlLH1I/giphy.gif"  />
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBmcjhyNHFvbXJ6bW5yMGliOTUwdDByeGlydDhqcXQ2eTF3c2NrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fPOm3oqOWNFOMlLH1I/giphy.gif"  />
-</div>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ljdGFwbGtkN3ZzMnMzM2M5MHFkY211Mmd4czRjZmRmdWducWM1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12BYUePgtn7sis/giphy.gif"  />
