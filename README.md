@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yaasir and I'm a Full Stack Web Developer, from ....</h2>
+<h2 align="left">Hi 👋! My name is Yaasir and I'm a Full Stack Web Developer, from Mauritius...</h2>
 
 ###
 
